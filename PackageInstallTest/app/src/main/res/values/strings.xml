@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PackageInstallTest</string>
+    <string name="button_text">Install Package</string>
+    <string name="target_apk_name" translatable="false">target.apk</string>
+</resources>
